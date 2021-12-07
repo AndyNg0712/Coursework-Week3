@@ -19,5 +19,10 @@ use commands: git add --all, git commit -m'pushing index.html' and git push to f
 - Push reset.css into github. 
 
 - Building structure for index.html 
+- Link reset.css and style.css to index.html
 
+set-up reset.css
+//screen shot reset.css file//
+
+save and push to corusework-week3 respository on github. 
 
