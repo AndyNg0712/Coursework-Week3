@@ -23,6 +23,13 @@ use commands: git add --all, git commit -m'pushing index.html' and git push to f
 
 set-up reset.css
 //screen shot reset.css file//
-
 save and push to corusework-week3 respository on github. 
+
+Building structure for index.html with title "Passwords Generator"
+Style body, header, h1 in style.css 
+//style-css-index-html-save
+check index.html on browser
+//index-html-on-browser
+
+Upload changes in READEME.MD, style.css, index.html and images to github "Coursework-week3" 
 
