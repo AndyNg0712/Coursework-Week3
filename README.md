@@ -3,7 +3,6 @@ Create new respository for coursework-week3
 git clone to local machine
 create folders and files
 /assets/css/style.css
-/assets/css/reset.css
 /assets/image/
 /assets/js/script.js
 
@@ -16,6 +15,9 @@ use commands: git add --all, git commit -m'pushing index.html' and git push to f
 
 - Save README.MD file and push to github
 
+- Create reset.css file in /assets/css/reset.css for index.html
+- Push reset.css into github. 
+
+- Building structure for index.html 
 
 
-Crea
