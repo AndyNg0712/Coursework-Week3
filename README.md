@@ -52,5 +52,12 @@ Screen shot input-buttons-on-web
 
 Push to github to save. "input-button image"
 
+Make "button: hover" when we move pointer to
+
+Screen shot "button hover" in CSS and appear on web browser.
+![alt text]()
+![alt text]()
+
+//start to write javascript//
 
 
