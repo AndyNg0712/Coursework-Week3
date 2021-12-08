@@ -54,10 +54,13 @@ Push to github to save. "input-button image"
 
 Make "button: hover" when we move pointer to
 
-Screen shot "button hover" in CSS and appear on web browser.
-![alt text]()
-![alt text]()
+Screen shot "button hover" in CSS 
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/button-hover-CSS.png?raw=true)
 
+and appear on web browser.
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/button-hover-on-web.png?raw=true)
+
+push "screen shot button hover README" to github
 //start to write javascript//
 
 
