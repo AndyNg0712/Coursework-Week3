@@ -45,8 +45,12 @@ Create and style 'input' to generate passwords
 create and style 'Generate Passwords" button and 'Copy Passwords' button. 
 
 Screen Shot input and buttons codes in index.html and style.css
-
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/input-button.png?raw=true)
 
 Screen shot input-buttons-on-web
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/input-buttons-on-web.png?raw=true)
+
+Push to github to save. "input-button image"
+
 
 
