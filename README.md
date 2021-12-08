@@ -37,3 +37,16 @@ Screen shot: index-html-on-browser
 ![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/index-html-on-browser.png?raw=true)
 
 Upload changes in READEME.MD, style.css, index.html and images to github "Coursework-week3" 
+Adding screen shots into readme file and push to github
+
+index.html and style.css
+Create and style 'input' to generate passwords 
+
+create and style 'Generate Passwords" button and 'Copy Passwords' button. 
+
+Screen Shot input and buttons codes in index.html and style.css
+
+
+Screen shot input-buttons-on-web
+
+
