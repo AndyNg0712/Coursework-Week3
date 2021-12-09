@@ -79,3 +79,25 @@ view on website after fixing in style.css
 
 push to github to save changes. 
 update readme file and push to github. 
+
+Javascript
+Create variable pass using getElementById with ID passwords in index.html
+
+set function genPassword with 
+varible of character on our qwerty keyboard. 
+varible passworkdlength is 12 characters.
+varible randomNumber by using Math.floor equal to all the characters set before
+
+and math.random to radom choose number between 0 and 1. 
+
+after that showing the passwords value in the password input in html
+
+screen shot script
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/script.png?raw=true)
+
+screen shot view on web with javascript.
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/script.png?raw=true)
+
+git push to github 
+
+
