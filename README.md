@@ -60,7 +60,20 @@ Screen shot "button hover" in CSS
 and appear on web browser.
 ![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/button-hover-on-web.png?raw=true)
 
-push "screen shot button hover README" to github
-//start to write javascript//
+push "screen shot button hover README" to github.
 
+After reading the README file from the homework, we need to make change for index.html to re-design our button. 
+then we have to change style.css, add div in index.html 
+
+Screen shot of changing in index.html 
+![alt text]() - fix-generate-pass-button-html
+
+view on website before fixing in style.css
+![alt text]() - view-on-web1
+
+Screen shot of changing in style.css
+![alt text]() - fixing-style-css-button
+
+view on website after fixing in style.css
+![alt text]() - view-on-web2
 
