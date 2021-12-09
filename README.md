@@ -66,14 +66,16 @@ After reading the README file from the homework, we need to make change for inde
 then we have to change style.css, add div in index.html 
 
 Screen shot of changing in index.html 
-![alt text]() - fix-generate-pass-button-html
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/fix-generate-pass-button-html.png?raw=true)
 
 view on website before fixing in style.css
-![alt text]() - view-on-web1
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/view-on-web1.png?raw=true)
 
 Screen shot of changing in style.css
-![alt text]() - fixing-style-css-button
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/fixing-style-css-button.png?raw=true)
 
 view on website after fixing in style.css
-![alt text]() - view-on-web2
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/view-on-web2.png?raw=true)
 
+push to github to save changes. 
+update readme file and push to github. 
