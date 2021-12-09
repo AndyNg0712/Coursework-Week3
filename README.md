@@ -96,7 +96,7 @@ screen shot script
 ![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/script.png?raw=true)
 
 screen shot view on web with javascript.
-![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/script.png?raw=true)
+![alt text](https://github.com/AndyNg0712/Coursework-Week3/blob/main/assets/images/view-on-web3.png?raw=true)
 
 git push to github 
 
