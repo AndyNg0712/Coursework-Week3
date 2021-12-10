@@ -100,4 +100,10 @@ screen shot view on web with javascript.
 
 git push to github 
 
+to pull github file:
+https://github.com/AndyNg0712/Coursework-Week3.git
+live version
+https://andyng0712.github.io/Coursework-Week3/
+
+
 
